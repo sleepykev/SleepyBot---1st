@@ -1,2 +1,5 @@
 # SleepyBot---1st
-SleepyBot
+SleepyBot for hack.chat
+
+All this made possible by @BlackHat
+# Codes used are for learning and are original.
