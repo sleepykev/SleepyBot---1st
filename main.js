@@ -27,7 +27,7 @@ if (cmdarg == "-h" || cmdarg == "--help" || cmdarg == "-help" || cmdarg == "?" |
  
  
 var userName = "SleepyBot";
-var tripCode = "00x0033xxx9"; //Change secretpass to a unique password
+var tripCode = "uniquepassword"; //Change secretpass to a unique password
  
 var HackChat = require("hack-chat");
 var d, bl, g = 0;
